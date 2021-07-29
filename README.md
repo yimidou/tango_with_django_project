@@ -1,1 +1,1 @@
-This is the course project for Internet Tach.
+This is the course project for Internet Tech.
